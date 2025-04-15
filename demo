@@ -1,0 +1,16 @@
+// git init
+// git add .
+// git commit -m " comment "
+// link
+// git push origin master
+
+-------------------------------------
+
+// git branch " name " ( жаны ветка ачуу )
+// git checkout " name " ( ошол веткага отуу )
+// git checkout -b ( жаны ветка тузуп, сразу ошого отуу )
+// git pull
+// git merge
+----------------------------------------
+
+// git clone
